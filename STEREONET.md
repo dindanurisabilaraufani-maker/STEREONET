@@ -23,4 +23,11 @@ Ditentukan oleh strike (arah jurus) dan dip (kemiringan).
 
 Ditentukan oleh trend (arah azimuth) dan plunge (sudut kemiringan ke bawah). Digambarkan sebagai titik pada stereonet.
 
+### Jenis-Jenis Stereonet yang Perlu Kamu Tahu 😍
+Stereonet dibedakan berdasarkan karakteristik proyeksi matematisnya, yaitu:
+1. Proyeksi Sudut Sama (Wulff Net)
+Menjaga kesetaraan sudut antar elemen. Cocok digunakan untuk analisis kinematika, rotasi, dan perhitungan sudut antar bidang karena akurat dalam menjaga besar sudut.
+
+2. Proyeksi Luas Sama (Schmidt Net)
+Mempertahankan luas area yang proporsional dengan kenyataan. Jenis ini lebih sering digunakan untuk analisis statistik orientasi (misalnya klaster bidang atau garis) dan analisis lipatan atau deformasi batuan.
 
